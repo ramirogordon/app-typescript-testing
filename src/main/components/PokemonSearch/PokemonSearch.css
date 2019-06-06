@@ -1,0 +1,37 @@
+.pokemon-screen {
+  background: #eee;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.user-data {
+  margin: 0;
+  padding: 1.5rem;
+  font-size: 2rem;
+  /* background: blue; */
+}
+
+.input-field {
+  height: 5%;
+  width: 29.5%;
+  /* background: red; */
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+.input-pokemon {
+  padding: 0.5rem;
+  margin-right: 1rem;
+}
+
+.pokemon-card {
+  background: #dddada;
+  margin: 5rem;
+  width: 25%;
+  height: 40%;
+}
+
+.pokemon-img {
+}
